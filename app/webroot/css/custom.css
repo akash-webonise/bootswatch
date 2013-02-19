@@ -1,0 +1,22 @@
+footer, #footer{
+    background: #222222;
+    color: #ffffff;
+    padding: 25px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+html, body{
+    height: 100%;
+}
+.mainOutCnt {
+    position: relative;
+    min-height: 100%;
+    margin-bottom: -130px;
+}
+h1{
+    text-align: center;
+}
+#content{
+    min-height: 620px;
+}
